@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1750
+
+The color scheme I use to edit all my Python files. 
+It is more or less based on DarkTango color scheme.
+
+Some users told me it was nice with PHP files as well, but I haven't tested with other files than Python and Ruby.
+
+A screenshot is here :
+http://kib2.free.fr/documents/Vim/vim_kib_dark_tango.png
+
+All comments are welcome.
+
